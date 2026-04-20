@@ -1,0 +1,17 @@
+---
+title: Dev blogg 1
+date: "2026-04-20"
+effort: "medium"
+meme: "https://makeagif.com/gif/max-verstappen-tire-puncture-crash-baku-azerbaijangp-JmEwic"
+---
+# Onewordtitle
+## Description
+Jag har börjat med min hemsida nu där jag ska visa upp kartor och kunna ladda up dem. Jag har gjort en prov struktur hur det ska se ut och jag har förljt en guide https://stackoverflow.com/questions/36463139/how-to-set-img-alt-tag-from-another-piece-of-html-in-the-same-page
+som visar hur man gör en knapp som vissar up ett formulär som dyker upp. Jag tänker nog styla om den i framtiden men nu har jag nästan kopierat rakt av för att komma framåt
+
+Jag har inset att det kommer vara svårt att ta in pdf dels för man måste spara ner dem men också när jag ska vissa up pdf så andvänder jag nu <iframe> istället för <img> vilket har medfört
+att jag måste ändra css så det blir så som jag vill ha det.
+
+<hr>
+<br>
+Commit: <a href="<<link to commit>>" target="_blank">Version 0.0.x</a>
