@@ -1,0 +1,15 @@
+---
+title: Dev blogg 2
+date: "2026-04-28"
+effort: "medium"
+meme: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlXzkxcOhPDwdAFEQllzXaTCP27E1m90gWw&s"
+---
+# Onewordtitle
+## Description
+Jag har hållit på med att göra om hur bilderna vissas up genom att göra en array och sedan andvända kod för att automatiskt visa upp bilderna. Jag har också valt att gå till 
+png format då det är enklare både att hantera men också att fixa fram kartor på. 
+
+Jag har lyckas göra så att när man klickar på kartorna så öppnas kartan i en ny flik där man kan kolla på den tydligare och zoma in. 
+<hr>
+<br>
+Commit: <a href="<<link to commit>>" target="_blank">Version 0.0.x</a>
