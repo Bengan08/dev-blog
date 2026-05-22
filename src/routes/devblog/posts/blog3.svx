@@ -1,0 +1,16 @@
+---
+title: Dev blogg 3
+date: "2026-05-22"
+effort: "medium"
+meme: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlXzkxcOhPDwdAFEQllzXaTCP27E1m90gWw&s"
+---
+# Onewordtitle
+## Description
+Jag har lagt till knappar så man kan sorter kartorna efter olika distanser och år. Detta gjorde jag med hjälp av att lägga till 
+date och distans. Sedan med date andvände jag (kartor.sort((a, b) => b.date - a.date);). För att kunna byta mellan varje så har jag 
+en ny kopia av listan 
+
+Jag har börjat försöka fixa hur man ska kunna ladda up kartor via att andvända cloudinary
+<hr>
+<br>
+Commit: <a href="<<link to commit>>" target="_blank">Version 0.0.x</a>
