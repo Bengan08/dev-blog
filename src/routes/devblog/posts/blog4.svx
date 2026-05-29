@@ -1,0 +1,15 @@
+---
+title: Dev blogg 4
+date: "2026-05-29"
+effort: "medium"
+meme: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlXzkxcOhPDwdAFEQllzXaTCP27E1m90gWw&s"
+---
+# Sista inlägget
+## Description
+Jag har snyggat till hemsidan och lagt till en backgrund och lagt till ett tema på alla knappar och behållare så dem ser enhetliga ut. 
+
+jag har hållt på med att få kartorna att sparas. Jag lyckas med att få dem att sparas i en folder i static men jag har problem att lägga till dem i listan som ska visas.
+
+<hr>
+<br>
+Commit: <a href="<<link to commit>>" target="_blank">Version 0.0.x</a>
